@@ -11,4 +11,5 @@ QQ：3550358612
 
 此工具集永久免费。
 
-买杯咖啡：https://afdian.net/a/GreatToolKit
+支持开发：https://afdian.net/a/GreatToolKit
+
