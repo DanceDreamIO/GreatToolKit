@@ -13,17 +13,17 @@ QQ：3550358612
 
 # 已有功能一览
 
-- 满命CMD召唤器 一键打开拥有TrustedInstaller权限的CMD (一键获取系统最高权限)
-- FakeMyPC 虚假的“计算机”程序
-- Fucker 悄声无息的关闭某些应用程序
-- GreatScreen 悄声无息的在指定时间打开内容或执行脚本
-- U盘打开器 一键打开U盘
+- 满命CMD召唤器   一键打开拥有TrustedInstaller权限的CMD (一键获取系统最高权限)
+- FakeMyPC   虚假的“计算机”程序
+- Fucker   悄声无息的关闭某些应用程序
+- GreatScreen   悄声无息的在指定时间打开内容或执行脚本
+- U盘打开器   一键打开U盘
 - U盘送礼工具
-- NoSoundVolumChanger 悄声无息的修改系统音量
+- NoSoundVolumChanger   悄声无息的修改系统音量
 - 洗脑音乐播放器
-- Smart.exe 一键打开可编辑的Hosts文件
-- cmd_killer.exe 杀死所有CMD进程
-- RickRoll_Player 播放RickRoll
+- Smart.exe   一键打开可编辑的Hosts文件
+- cmd_killer.exe   杀死所有CMD进程
+- RickRoll_Player   播放RickRoll
 
 支持开发：https://afdian.net/a/GreatToolKit
 
